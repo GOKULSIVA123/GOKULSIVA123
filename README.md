@@ -2,7 +2,7 @@
 
 ### 🎓 3rd Year CSE Student @ Sri Sairam Engineering College
 
-I am a developer who enjoys building applications that solve real-world problems. My current focus is on **Full Stack Development** and exploring how **AI & Automation** can improve productivity tools.
+I am a developer who enjoys building applications that solve real-world problems. My current focus is on **Full Stack Development** and exploring how **AI & Automation** can improve productivity to web application and building productivity and scalable web application.
 
 I believe in writing clean, logical code. To achieve that, I actively practice **Data Structures & Algorithms** to sharpen my problem-solving skills and improve the efficiency of my solutions.
 
