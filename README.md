@@ -73,7 +73,6 @@ I solve algorithmic problems to improve my logical thinking and coding efficienc
 
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=GOKULSIVA123&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 
 
