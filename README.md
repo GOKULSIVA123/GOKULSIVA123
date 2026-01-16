@@ -50,11 +50,12 @@ I believe in writing clean, logical code. To achieve that, I actively practice *
 ### 🔭 What I'm Focused On
 
 **1. Application Development 💻**
-I build web apps focused on **Automation, Productivity, and Gamification**.
+I build web appln focused on **Automation, Productivity, and Gamification**.
 *   **Hackathon Project:** Built a **Gamified Disaster Management System** using **React** for the Smart India Hackathon (SIH) selection round to make safety education interactive.
 *   **Frontend Development:** Developed a **Gadget E-commerce Store** using **React & Tailwind CSS**, specifically to master the **Context API** for efficient state management and modern UI design.
 *   **Productivity Tools:** Built a **Smart To-Do List** integrated with **n8n** to automate daily task management.
 *   **Current Project:** Developing an **AI-Powered Expense Tracker** that uses automation to analyze spending and manage personal budgets.
+*   **Internship Application Tracker**: A full-stack **React** dashboard with **MongoDB** in backend, **Clerk auth**, and **Motia workflows** for centralized job tracking, status updates, and **automated Gmail notifications**
 
 
 **2. Problem Solving & Logic 🧠**
