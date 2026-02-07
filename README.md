@@ -1,170 +1,88 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GOKUL SIVA - Portfolio</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-</head>
-<body class="bg-gradient-to-br from-slate-900 via-purple-900 to-slate-900 min-h-screen text-white p-8">
-    <div class="max-w-4xl mx-auto">
-        
-        <!-- Header -->
-        <header class="text-center mb-16">
-            <div class="w-32 h-32 bg-gradient-to-r from-blue-500 to-purple-600 rounded-full mx-auto mb-6 shadow-2xl border-4 border-white flex items-center justify-center">
-                <i class="fas fa-user text-4xl"></i>
-            </div>
-            <h1 class="text-5xl font-bold bg-gradient-to-r from-green-400 via-blue-400 to-purple-500 bg-clip-text text-transparent mb-4">
-                Hi, I'm GOKUL SIVA 👋
-            </h1>
-            <p class="text-2xl text-slate-300 mb-2">3rd Year CSE Student</p>
-            <p class="text-xl text-blue-400 font-semibold">@ Sri Sairam Engineering College</p>
-        </header>
+# Hi, I'm GOKUL SIVA 👋
 
-        <!-- Intro -->
-        <section class="mb-20 prose prose-invert max-w-none">
-            <p class="text-xl leading-relaxed mb-8 text-slate-300">
-                I am a developer who enjoys building applications that solve real-world problems. 
-                My current focus is on <strong>Full Stack Development</strong> and exploring how 
-                <strong>AI & Automation</strong> improve <strong>web app productivity</strong> and 
-                building scalable web applications.
-            </p>
-            <p class="text-lg text-slate-400">
-                I believe in writing clean, logical code. To achieve that, I actively practice 
-                <strong>Data Structures & Algorithms</strong> to sharpen my problem-solving skills 
-                and improve the efficiency of my solutions.
-            </p>
-        </section>
+### 🎓 3rd Year CSE Student @ Sri Sairam Engineering College
 
-        <!-- Tech Stack -->
-        <section class="mb-20">
-            <h2 class="text-4xl font-bold mb-12 text-center bg-gradient-to-r from-green-400 to-blue-500 bg-clip-text text-transparent">
-                🛠️ Tech Stack
-            </h2>
-            
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-                <!-- Languages -->
-                <div>
-                    <h3 class="text-2xl font-semibold mb-6 text-white">Languages</h3>
-                    <div class="flex flex-wrap gap-3">
-                        <span class="px-4 py-2 bg-gradient-to-r from-blue-600 to-blue-700 rounded-full text-white font-medium shadow-lg">Python</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-orange-500 to-orange-600 rounded-full text-white font-medium shadow-lg">Java</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-yellow-400 to-yellow-500 rounded-full text-black font-medium shadow-lg">JavaScript</span>
-                    </div>
-                </div>
+I am a developer who enjoys building applications that solve real-world problems. My current focus is on **Full Stack Development** and exploring how **AI & Automation** can improve productivity to web application and building productivity and scalable web application.
 
-                <!-- Frameworks -->
-                <div>
-                    <h3 class="text-2xl font-semibold mb-6 text-white">Frameworks</h3>
-                    <div class="flex flex-wrap gap-3">
-                        <span class="px-4 py-2 bg-gradient-to-r from-cyan-400 to-blue-500 rounded-full text-black font-medium shadow-lg">React</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-green-600 to-teal-600 rounded-full text-white font-medium shadow-lg">FastAPI</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-gray-800 to-gray-700 rounded-full text-white font-medium shadow-lg">Flask</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-cyan-400 to-teal-500 rounded-full text-white font-medium shadow-lg">Tailwind CSS</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-blue-500 to-indigo-600 rounded-full text-white font-medium shadow-lg">Material UI</span>
-                    </div>
-                </div>
+I believe in writing clean, logical code. To achieve that, I actively practice **Data Structures & Algorithms** to sharpen my problem-solving skills and improve the efficiency of my solutions.
 
-                <!-- Databases -->
-                <div>
-                    <h3 class="text-2xl font-semibold mb-6 text-white">Databases</h3>
-                    <div class="flex flex-wrap gap-3">
-                        <span class="px-4 py-2 bg-gradient-to-r from-green-500 to-emerald-600 rounded-full text-white font-medium shadow-lg">MongoDB</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-purple-600 to-purple-700 rounded-full text-white font-medium shadow-lg">MariaDB</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-gray-700 to-gray-800 rounded-full text-white font-medium shadow-lg">SQLite</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-blue-600 to-blue-700 rounded-full text-white font-medium shadow-lg">PostgreSQL</span>
-                    </div>
-                </div>
+---
+### 🛠️ Tech Stack
 
-                <!-- Cloud & Tools -->
-                <div>
-                    <h3 class="text-2xl font-semibold mb-6 text-white">Cloud & Tools</h3>
-                    <div class="flex flex-wrap gap-3">
-                        <span class="px-4 py-2 bg-gradient-to-r from-blue-600 to-blue-700 rounded-full text-white font-medium shadow-lg">Azure</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-blue-400 to-blue-600 rounded-full text-white font-medium shadow-lg">Google Cloud</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-blue-500 to-blue-600 rounded-full text-white font-medium shadow-lg">Docker</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-black to-gray-800 rounded-full text-white font-medium shadow-lg">LangChain</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-pink-500 to-rose-600 rounded-full text-white font-medium shadow-lg">n8n</span>
-                        <span class="px-4 py-2 bg-gradient-to-r from-orange-500 to-orange-600 rounded-full text-white font-medium shadow-lg">Render</span>
-                    </div>
-                </div>
-            </div>
-        </section>
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-        <!-- Focus Areas -->
-        <section class="mb-20">
-            <h2 class="text-4xl font-bold mb-12 text-center bg-gradient-to-r from-purple-400 to-pink-500 bg-clip-text text-transparent">
-                🔭 What I'm Focused On
-            </h2>
-            <div class="space-y-8">
-                <div class="bg-slate-800/50 p-8 rounded-2xl border border-slate-700">
-                    <h3 class="text-2xl font-bold mb-4 text-green-400">1. Application Development 💻</h3>
-                    <p class="text-slate-300 mb-6">I build web apps focused on <strong>Automation, Productivity, and Gamification</strong>.</p>
-                    <ul class="space-y-2 text-slate-400">
-                        <li>• <strong>Hackathon Project:</strong> Gamified Disaster Management System (SIH)</li>
-                        <li>• <strong>Gadget E-commerce:</strong> React + Tailwind + Context API</li>
-                        <li>• <strong>Current:</strong> AI-Powered Expense Tracker</li>
-                        <li>• <strong>Internship Tracker:</strong> React + MongoDB + Clerk Auth</li>
-                    </ul>
-                </div>
-                <div class="bg-slate-800/50 p-8 rounded-2xl border border-slate-700">
-                    <h3 class="text-2xl font-bold mb-4 text-blue-400">2. Problem Solving 🧠</h3>
-                    <p class="text-slate-300">Mastering <strong>Sliding Window, Two Pointers, HashMaps</strong>. Next: Graphs & DP.</p>
-                </div>
-            </div>
-        </section>
+**Development & Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+</p>
 
-        <!-- Fun Facts -->
-        <section class="mb-20">
-            <h2 class="text-4xl font-bold mb-12 text-center bg-gradient-to-r from-orange-400 to-red-500 bg-clip-text text-transparent">
-                ⚡ Fun Facts
-            </h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 text-center">
-                <div class="p-6 bg-slate-800/50 rounded-xl border border-slate-700">
-                    <div class="text-4xl mb-4">🎌</div>
-                    <h3 class="text-xl font-bold mb-2">Huge Otaku</h3>
-                    <p>70+ anime • Naruto • One Piece (1000+ eps!)</p>
-                </div>
-                <div class="p-6 bg-slate-800/50 rounded-xl border border-slate-700">
-                    <div class="text-4xl mb-4">🦉</div>
-                    <h3 class="text-xl font-bold mb-2">Night Owl</h3>
-                    <p>Best debugging at 2 AM</p>
-                </div>
-                <div class="p-6 bg-slate-800/50 rounded-xl border border-slate-700">
-                    <div class="text-4xl mb-4">🎮</div>
-                    <h3 class="text-xl font-bold mb-2">Gamer</h3>
-                    <p>PC games + Chess</p>
-                </div>
-                <div class="p-6 bg-slate-800/50 rounded-xl border border-slate-700">
-                    <div class="text-4xl mb-4">🌌</div>
-                    <h3 class="text-xl font-bold mb-2">Space Fan</h3>
-                    <p>Universe & space exploration</p>
-                </div>
-            </div>
-        </section>
+**Databases**
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
 
-        <!-- Connect -->
-        <footer class="text-center">
-            <h2 class="text-3xl font-bold mb-8 bg-gradient-to-r from-green-400 to-blue-500 bg-clip-text text-transparent">
-                📫 Connect with Me
-            </h2>
-            <div class="flex justify-center gap-6">
-                <a href="https://www.linkedin.com/in/gokulsiva1101/" class="group">
-                    <div class="w-16 h-16 bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl flex items-center justify-center shadow-xl hover:shadow-2xl hover:scale-110 transition-all duration-300 group-hover:from-blue-500 group-hover:to-blue-600">
-                        <i class="fab fa-linkedin text-2xl"></i>
-                    </div>
-                </a>
-                <a href="mailto:gokulsiva1101@gmail.com" class="group">
-                    <div class="w-16 h-16 bg-gradient-to-r from-red-500 to-red-600 rounded-2xl flex items-center justify-center shadow-xl hover:shadow-2xl hover:scale-110 transition-all duration-300 group-hover:from-red-400 group-hover:to-red-500">
-                        <i class="fas fa-envelope text-2xl"></i>
-                    </div>
-                </a>
-            </div>
-            <p class="mt-8 text-slate-500 text-lg">Made with ❤️ using Tailwind CSS</p>
-        </footer>
+**Tools & Platforms**
+<p>
+  <img src="https://img.shields.io/badge/n8n-FF6584?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
-    </div>
-</body>
-</html>
+**DevOps & Cloud**
+<p>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
+</p>
+
+### 🔭 What I'm Focused On
+
+**1. Application Development 💻**
+I build web appln focused on **Automation, Productivity, and Gamification**.
+*   **Hackathon Project:** Built a **Gamified Disaster Management System** using **React** for the Smart India Hackathon (SIH) selection round to make safety education interactive.
+*   **Frontend Development:** Developed a **Gadget E-commerce Store** using **React & Tailwind CSS**, specifically to master the **Context API** for efficient state management and modern UI design.
+*   **Productivity Tools:** Built a **Smart To-Do List** integrated with **n8n** to automate daily task management.
+*   **Current Project:** Developing an **AI-Powered Expense Tracker** that uses automation to analyze spending and manage personal budgets.
+*   **Internship Application Tracker**: A full-stack **React** dashboard with **MongoDB** in backend, **Clerk auth**, and **Motia workflows** for centralized job tracking, status updates, and **automated Gmail notifications**
+
+
+**2. Problem Solving & Logic 🧠**
+I solve algorithmic problems to improve my logical thinking and coding efficiency.
+*   **Current Strength:** Mastering patterns like **Sliding Window**, **Two Pointers**, and **HashMaps**.
+*   **Learning Roadmap:** Expanding into advanced Data Structures like **Graph Algorithms (BFS/DFS)** and **Dynamic Programming** to tackle complex optimization problems.
+*   **Goal:** To write optimized code, not just working code.
+
+### ⚡ Fun Facts & Interests
+
+*   **Huge Otaku 🎌:** I’ve watched **70+ anime**. I actually finished **Naruto** and caught up with **One Piece** (Yes, all 1000+ episodes!). I love diving deep into character backstories.
+*   **Tech Enthuasist 📱:** I spend time watching reviews for new **laptops and phones** and other technology updates.
+*   **Gamer 🎮:** I play **PC games** to relax and occasionally hop on a game of **Chess** when I feel like thinking.
+*   **Night Owl 🦉:** My best debugging happens when the world is asleep.
+*   **Space Enthusiast 🌌:** I just love learning about **space and the universe**.
+
+
+---
+
+
+
+
+---
+
+### 📫 Connect with Me
+<p align="left">
+<a href="https://www.linkedin.com/in/gokulsiva1101/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="mailto:gokulsiva1101@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
 
