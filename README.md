@@ -2,7 +2,7 @@
 
 ### 🎓 Final Year CSE Student @ Sri Sairam Engineering College | Aspiring SDE 🚀
 
-I am a developer who enjoys building applications that solve real-world problems. My primary focus is on **Full-Stack Development** and **Generative AI**. 
+I am a developer and learning to build applications that solve real-world problems. My primary focus is on **Full-Stack Development** and **Generative AI**. 
 
 As an aspiring Software Development Engineer still continuously learning and expanding my technical skills, I actively practice **Data Structures & Algorithms** to sharpen my problem-solving skills and optimize system efficiency.
 
