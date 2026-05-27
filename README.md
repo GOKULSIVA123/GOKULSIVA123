@@ -55,8 +55,6 @@ As an aspiring Software Development Engineer still continuously learning and exp
   <img src="https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
- 
----
 
 
 
