@@ -1,10 +1,10 @@
 # Hi, I'm GOKUL SIVA 👋
 
-### 🎓 3rd Year CSE Student @ Sri Sairam Engineering College
+### 🎓 Final Year CSE Student @ Sri Sairam Engineering College | Aspiring SDE 🚀
 
-I am a developer who enjoys building applications that solve real-world problems. My current focus is on **Full Stack Development** and exploring how **AI & Automation** can improve productivity to web application and building productivity and scalable web application.
+I am a developer who enjoys building applications that solve real-world problems. My primary focus is on **Full-Stack Development** and **Generative AI**. 
 
-I believe in writing clean, logical code. To achieve that, I actively practice **Data Structures & Algorithms** to sharpen my problem-solving skills and improve the efficiency of my solutions.
+As an aspiring Software Development Engineer still continuously learning and expanding my technical skills, I actively practice **Data Structures & Algorithms** to sharpen my problem-solving skills and optimize system efficiency.
 
 ---
 ### 🛠️ Tech Stack
