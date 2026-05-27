@@ -55,32 +55,7 @@ I believe in writing clean, logical code. To achieve that, I actively practice *
   <img src="https://img.shields.io/badge/RAG_Systems-000000?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### 🔭 What I'm Focused On
-
-**1. Application Development 💻**
-I build web appln focused on **Automation, Productivity, and Gamification**.
-*   **Hackathon Project:** Built a **Gamified Disaster Management System** using **React** for the Smart India Hackathon (SIH) selection round to make safety education interactive.
-*   **Frontend Development:** Developed a **Gadget E-commerce Store** using **React & Tailwind CSS**, specifically to master the **Context API** for efficient state management and modern UI design.
-*   **Productivity Tools:** Built a **Smart To-Do List** integrated with **n8n** to automate daily task management.
-*   **Current Project:** Developing an **AI-Powered Expense Tracker** that uses automation to analyze spending and manage personal budgets.
-*   **Internship Application Tracker**: A full-stack **React** dashboard with **MongoDB** in backend, **Clerk auth**, and **Motia workflows** for centralized job tracking, status updates, and **automated Gmail notifications**
-
-
-**2. Problem Solving & Logic 🧠**
-I solve algorithmic problems to improve my logical thinking and coding efficiency.
-*   **Current Strength:** Mastering patterns like **Sliding Window**, **Two Pointers**, and **HashMaps**.
-*   **Learning Roadmap:** Expanding into advanced Data Structures like **Graph Algorithms (BFS/DFS)** and **Dynamic Programming** to tackle complex optimization problems.
-*   **Goal:** To write optimized code, not just working code.
-
-### ⚡ Fun Facts & Interests
-
-*   **Huge Otaku 🎌:** I’ve watched **70+ anime**. I actually finished **Naruto** and caught up with **One Piece** (Yes, all 1000+ episodes!). I love diving deep into character backstories.
-*   **Tech Enthuasist 📱:** I spend time watching reviews for new **laptops and phones** and other technology updates.
-*   **Gamer 🎮:** I play **PC games** to relax and occasionally hop on a game of **Chess** when I feel like thinking.
-*   **Night Owl 🦉:** My best debugging happens when the world is asleep.
-*   **Space Enthusiast 🌌:** I just love learning about **space and the universe**.
-
-
+ 
 ---
 
 
