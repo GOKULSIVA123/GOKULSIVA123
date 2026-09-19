@@ -15,7 +15,7 @@ As an aspiring Software Development Engineer still continuously learning and exp
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,react,flask,fastapi,tailwind,mui,mongodb,sqlite,postgres,firebase,postman,docker,azure,gcp,langchain" alt="Gokul Siva Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,react,flask,fastapi,tailwind,mui,mongodb,sqlite,firebase,postman,docker,azure,gcp,cloudflare,clerk,n8n,langchain&theme=light" alt="Gokul Siva Tech Stack" />
 </p>
 
 ---
